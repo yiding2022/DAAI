@@ -14,10 +14,10 @@ This is for Day 3 workshop: 1) logit model and simple decision tree, 2) comparin
 This is for Day 4 workshop: 1) KNN, 2) NN
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yiding2022/DAAI/blob/main/Clustering.ipynb.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yiding2022/DAAI/blob/main/Clustering.ipynb)
 This is for Day 5 workshop: clustering 
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yiding2022/DAAI/blob/main/Topic_Modeling_and_Sentiment_Analysis.ipynb.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yiding2022/DAAI/blob/main/Topic_Modeling_and_Sentiment_Analysis.ipynb)
 This is for Day 7 workshop: sentiment analysis + topic modeling
 
